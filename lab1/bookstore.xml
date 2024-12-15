@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bookstore>
+  <book isbn="0123456001">
+    <title>Java For Dummies</title>
+    <author>Tan Ah Teck</author>
+    <category>Programming</category>
+    <year>2009</year>
+    <edition>7</edition>
+    <price>19.99</price>
+  </book>
+  <book isbn="0123456002">
+    <title>Effective Java</title>
+    <author>Joshua Bloch</author>
+    <category>Programming</category>
+    <year>2018</year>
+    <edition>3</edition>
+    <price>45.99</price>
+  </book>
+  <book isbn="0123456003">
+    <title>Clean Code</title>
+    <author>Robert C. Martin</author>
+    <category>Programming</category>
+    <year>2008</year>
+    <edition>1</edition>
+    <price>39.99</price>
+  </book>
+</bookstore>
