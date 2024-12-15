@@ -10,17 +10,20 @@
     <price>19.99</price>
   </book>
   <book isbn="0123456002">
-    <title>Effective Java</title>
-    <author>Joshua Bloch</author>
+    <title>More Java For Dummies</title>
+    <author>Tan Ah Teck</author>
     <category>Programming</category>
-    <year>2018</year>
-    <edition>3</edition>
+    <year>2008</year>
     <price>45.99</price>
   </book>
   <book isbn="0123456003">
-    <title>Clean Code</title>
-    <author>Robert C. Martin</author>
-    <category>Programming</category>
+    <title>The Complere Guide to Fishing</title>
+    <author>Bill Jones</author>
+    <author>Jame Cook</author>
+    <author>Mary Tring</author>
+    <category>Fishing</category>
+    <category>Leisure</category>
+    <language>French</language>
     <year>2008</year>
     <edition>1</edition>
     <price>39.99</price>

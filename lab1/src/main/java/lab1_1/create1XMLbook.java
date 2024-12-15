@@ -8,10 +8,10 @@ import org.dom4j.Element;
 import org.dom4j.io.OutputFormat;
 import org.dom4j.io.XMLWriter;
 
-import model.BookStore;
+import model.BookStoree;
 public class create1XMLbook {
 	public static void main(String[] args) throws Exception {
-        BookStore b = new BookStore();
+        BookStoree b = new BookStoree();
         b.setIsbn("0123456001");
         b.setTitle("Java For Dummies");
         b.setAuthor("Tan Ah Teck");
